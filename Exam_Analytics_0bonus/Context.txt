@@ -1,0 +1,4 @@
+Performance prediction
+Performance of Students In Exams
+Gender Prediction
+Correlations between different attributes

@@ -1,0 +1,8 @@
+Gjinia - String - Gjinia e nxenesit
+Raca/Etniciteti - String - Grupi i Races/Etnicitetit te nxenesit
+Niveli_edukimit_prindit - String - Niveli i edukimit te prinderve (me i larti nga te 2)
+Shujta_drekes_pakoja - String - Lloji i pakos se ushqimit ne shkolle
+Kurse_parapregaditore_ekstra - String - Indikatori se a ka qene ne ndonje kurs ekstra 
+Matematike - Number - Rezultati ne Matematike
+Lexim - Number - Rezultati ne Lexim
+Shkrim - Number - Rezultati ne Shkrim

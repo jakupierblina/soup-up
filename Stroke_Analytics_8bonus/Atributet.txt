@@ -1,0 +1,12 @@
+ID - Number - Identifikatori
+Gjinia - String - Gjinia e pacientit
+Mosha - Number - Mosha e pacientit
+Hipertension - String - Indikatori nese pacienti ka pas hipertension ose jo (tension te larte)
+Semundje_zemres - String - Indikatori nese pacienti ka pas semundje te zemres
+Martuar_ndonjeher - String - Indikatori nese pacienti ka qene i martuar ndonjehere
+Lloji_punesimit - String - Punesimi i pacientit ne llojin e kompanise
+Zona_jeteses - String - Zona e banimit te pacientit
+Mesatarja_glukozes_niveli - Number - Mesatarja e nivelit te glukozes ne gjak
+bmi - Number - Body mass Indexi i pacientit (metrike qe perdoret ne mjeksi pesha/gjatesia)
+Duhanpirja - String - Indikatori qe tregon se a ka pire duhan pacienti
+Infarkt - Number - Indikatori qe tregon se a ka pas infarkt ose jo

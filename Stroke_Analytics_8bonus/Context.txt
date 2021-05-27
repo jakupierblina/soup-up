@@ -1,0 +1,3 @@
+Globalisht infarkti eshte shkaktari i dyte i me se shumti vdekjeve ne bote, ku afersisht 11% e vdekjeve vijne nga infarkti.
+Ne datasetin e ofruar ka shenime per pacient te ndryshem ku disa prej tyre kane pas ose jo infarkt. Qellimi eshte te krijohet nje model klasifikues per infarktin si dhe te analizohet shenimet e atributeve te ndryshme cfar ndikimi
+kane ne infarkt.
