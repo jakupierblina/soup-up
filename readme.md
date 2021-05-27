@@ -7,7 +7,8 @@ There are different folders which has different tasks to solve.
 Solution for each of those tasks is in the folder itself.
 
 
-<h4>Solved out of fun! </h4>
+
 Video explanation:
 
 
+<h4>Solved them out of fun! </h4>
